@@ -441,21 +441,3 @@ This project uses data from the **Alzheimer's Disease Neuroimaging Initiative (A
 
 ---
 
-## License
-
-This project is made available under the MIT License. See LICENSE file for details.
-
----
-
-## Contact & Support
-
-For questions or issues:
-- **Email**: [Your contact info]
-- **GitHub Issues**: Report bugs or request features
-- **Discussions**: Collaborate with team members
-
----
-
-**Last Updated**: May 2026
-
-**Good luck with your Alzheimer's diagnostic prediction project! 🧠**
