@@ -154,7 +154,7 @@ This section explains how to download the MRI data using the Participant IDs gen
 
 #### **Step 1: Log in to ADNI**
 
-1. Go to [ADNI Official Website](https://adni.loni.usc.edu/)
+1. Go to [ADNI Official Website](https://ida.loni.usc.edu/login.jsp)
 2. Log in with the credentials provided by your team lead
 3. You should now see the ADNI dashboard
 
